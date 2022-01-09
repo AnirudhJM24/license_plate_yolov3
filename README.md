@@ -7,7 +7,7 @@ Weights can be downloaded here : https://drive.google.com/drive/folders/10qCXB1I
 
 Detects license plate and vehicle.
 
-Crops license plate.
+Makes use of bounding box co-ordinates and crops license plate, makes it easier to run OCR on if number extraction is required.
 
 Example 1:
 

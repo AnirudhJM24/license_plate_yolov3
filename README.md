@@ -7,7 +7,7 @@ Weights can be downloaded here : https://drive.google.com/drive/folders/10qCXB1I
 
 Detects license plate and vehicle.
 
-Crops detected image.
+Crops license plate.
 
 Example 1:
 

@@ -7,7 +7,22 @@ Detects license plate and vehicle.
 
 Crops detected image.
 
-Example:
+Example 1:
+
+
+
+![image](https://user-images.githubusercontent.com/84384057/148692608-a7b411da-213a-43a1-94ca-e5e32076f527.png)
+
+
+
+Results :
+License plate :
+
+
+
+![license-plate1](https://user-images.githubusercontent.com/84384057/148692594-0588b03f-1cf9-4cc4-99e0-be3bb589d34e.jpg)
+
+
 
 
 

@@ -39,6 +39,10 @@ Results :
 
 
 
+Example 2:
+
+
+
 License plate 1
 ![license-plate1](https://user-images.githubusercontent.com/84384057/148692314-e8cf58f3-8ff9-4206-92f1-a3e261c86cb7.jpg)
 

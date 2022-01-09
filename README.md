@@ -1,6 +1,8 @@
 # license_plate_yolov3
 This repository demonstrates the usage of yolov3 to detect and extract license plate from an image
 
+Group the config , data and weights file in yolov3 folder.
+
 Weights can be downloaded here : https://drive.google.com/drive/folders/10qCXB1IxhOndyED-tfOWQtQ6-o9x05oY?usp=sharing
 
 Detects license plate and vehicle.

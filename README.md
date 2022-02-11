@@ -9,31 +9,11 @@ Detects license plate and vehicle.
 
 Makes use of bounding box co-ordinates and crops license plate, makes it easier to run OCR on if number extraction is required.
 
+
+
+
+
 Example 1:
-
-
-
-
-
-
-
-![ICW184](https://user-images.githubusercontent.com/84384057/148692740-9d4387a4-ba26-4855-a87d-9fd5e4b986b4.jpg)
-
-
-
-
-
-Results :
-
-
-![image](https://user-images.githubusercontent.com/84384057/148692755-ff7c3046-c97a-479d-a302-edd7680b7baf.png)
-
-
-![license-plate1](https://user-images.githubusercontent.com/84384057/148692767-f876cb2d-fe6a-4257-bd64-4e507b856ae2.jpg)
-
-
-
-Example 2:
 
 
 
@@ -50,7 +30,7 @@ License plate :
 
 
 
-Example 3:
+Example 2:
 
 
 ![ccc1a2d44a290368_jpg rf 8e8d6f87f1d1327caf5f80e0c96cdad9](https://user-images.githubusercontent.com/84384057/148692301-c02165fd-b9c4-4d58-a3e8-75f31abb3c55.jpg)
@@ -65,7 +45,7 @@ Results :
 
 
 
-Example 2:
+Example 3:
 
 
 
